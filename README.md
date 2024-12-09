@@ -16,8 +16,7 @@ Aplikasi berbasis Python untuk mengelola data barang, pegawai, dan transaksi pem
 ## 🔧 Cara Instalasi dan Menjalankan
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/project_name.git
-   cd project_name
+   git clone https://github.com/zidanmubarak/CRUD-Project.git
 
 2. Instal library yang diperlukan:
     ```bash
@@ -34,5 +33,3 @@ Aplikasi berbasis Python untuk mengelola data barang, pegawai, dan transaksi pem
 4. Jalankan aplikasi:
     ```bash
     python src/main.py
-
-
