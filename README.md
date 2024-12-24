@@ -32,4 +32,4 @@ Aplikasi berbasis Python untuk mengelola data barang, pegawai, dan transaksi pem
 
 4. Jalankan aplikasi:
     ```bash
-    python src/main.py
+    python src/project.py
