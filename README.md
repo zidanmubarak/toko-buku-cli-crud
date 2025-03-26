@@ -33,11 +33,16 @@ Aplikasi berbasis Python untuk mengelola data barang, pegawai, dan transaksi pem
 ### Langkah-langkah Instalasi
 
 1. Clone repositori ini:
+<<<<<<< HEAD
 
 ```bash
 git clone https://github.com/zidanmubarak/toko-buku-cli-crud.git
 cd toko-buku-cli-crud
 ```
+=======
+   ```bash
+   git clone https://github.com/zidanmubarak/CRUD-Project.git
+>>>>>>> e233cf7581a3b6ae934df344591c6f98ccb0f7a9
 
 2. Instal library yang diperlukan:
 
@@ -54,6 +59,7 @@ pip install -r requirements.txt
       * Klik tombol Go untuk menyelesaikan proses impor
 
 4. Jalankan aplikasi:
+<<<<<<< HEAD
 
 ```bash
 python src/project.py
@@ -75,3 +81,7 @@ toko-buku-cli-crud/
 ## 📝 Lisensi
 
 [MIT](LICENSE) © Zidan Mubarak
+=======
+    ```bash
+    python src/project.py
+>>>>>>> e233cf7581a3b6ae934df344591c6f98ccb0f7a9
